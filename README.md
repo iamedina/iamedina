@@ -15,10 +15,10 @@
 
 <div>
 <a href="https://github.com/iamedina">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamedina&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="400"  src="https://github-readme-stats.vercel.app/api?username=iamedina&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 </a>
 <a href="https://github.com/iamedina">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamedina&theme=radical&hide_border=false" alt="iamedina"/>
+  <img width="440"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamedina&theme=radical&hide_border=false" alt="iamedina"/>
 </a>
 </div>
 <div>
