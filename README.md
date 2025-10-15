@@ -11,7 +11,9 @@
 <p>I consider myself a versatile professional capable of contributing to high-impact projects. I stand out for my teamwork skills and my ability to quickly grasp new concepts and methodologies in modern web development.</p>
 </div>
 
-<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamedina" alt="iamedina" /> </p>
+
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, everyday is a learning opportunity.
