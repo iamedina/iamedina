@@ -12,9 +12,6 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamedina" alt="iamedina" /> </p>
-
-
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
